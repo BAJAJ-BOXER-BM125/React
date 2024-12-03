@@ -16,9 +16,21 @@ code {
     monospace;
 }
 .box{
-  padding-left: 45%;
-  background-color: #fc7a1d;
+  background-color:#FC7A1D;
 }
-.b1{
-  padding-right: 0%;
+.text{
+  color:  white;
 }
+.box1{
+  background-color:#FC7A1D;
+  
+}
+.text1{
+  text-color: black;
+}
+
+.box2{
+  background-color:#FC7A1D;
+  
+}
+
